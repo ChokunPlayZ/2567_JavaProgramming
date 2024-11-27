@@ -1,4 +1,4 @@
 studentId:2413110624
 studentName:Yanavut Rojanapron
-Topic:github
-Date:11/20/2024
+Topic:Varibles, Formatting, Output
+Date:11/27/2024
