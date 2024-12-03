@@ -1,3 +1,5 @@
+package Lab1;
+
 import java.util.*;
 import java.text.*;
 public class JavaExample1 {
