@@ -1,4 +1,4 @@
 studentId:2413110624
 studentName:Yanavut Rojanapron
-Topic:Control Statements and Confirm Dialog box
-Date:12/04/2024
+Topic: String method
+Date:12/11/2024
