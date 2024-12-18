@@ -1,4 +1,4 @@
 studentId:2413110624
 studentName:Yanavut Rojanapron
-Topic: String method
-Date:12/11/2024
+Topic: Method
+Date:12/18/2024
