@@ -1,4 +1,4 @@
 studentId:2413110624
 studentName:Yanavut Rojanapron
-Topic: Array and Method
-Date:12/25/2024
+Topic: Lab #7 Encapsulation Concept
+Date:01/22/2025
