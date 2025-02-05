@@ -1,4 +1,1 @@
-studentId:2413110624
-studentName:Yanavut Rojanapron
-Topic: Lab #10 Inheritance, Composition Concept
-Date:02/05/2025 (mm/dd/yyyy)
+..
